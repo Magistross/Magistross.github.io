@@ -1,0 +1,10 @@
+{
+    "c2dictionary": true,
+    "data": {
+        "SignBack": "{\"c2array\":true,\"size\":[1,7,1],\"data\":[[[\"You try to read the sign...{pause}\\n\\nHowever you can't read it from the back!\"],[\"\"],[\"\"],[\"\"],[\"\"],[\"\"],[\"\"]]]}",
+        "Flower": "{\"c2array\":true,\"size\":[1,7,1],\"data\":[[[\"Please do not step on the flowers!\"],[\"\"],[\"\"],[\"\"],[\"\"],[\"\"],[\"\"]]]}",
+        "Oasis": "{\"c2array\":true,\"size\":[1,7,1],\"data\":[[[\"Welcome to the flower oasis!\"],[\"\"],[\"\"],[\"\"],[\"\"],[\"\"],[\"\"]]]}",
+        "Desert": "{\"c2array\":true,\"size\":[1,7,1],\"data\":[[[\"Now entering the endless desert... hope you've brought some water!\"],[\"\"],[\"\"],[\"\"],[\"\"],[\"\"],[\"\"]]]}",
+        "Cactus": "{\"c2array\":true,\"size\":[3,7,1],\"data\":[[[\"What a peculiar cacti formation... Should I try to touch it?{pause}{choice:Yes::2,No::3}\"],[\"\"],[\"\"],[\"\"],[\"\"],[\"\"],[\"\"]],[[\"Ouch! It prickled me!\"],[\"\"],[\"\"],[\"\"],[\"\"],[\"\"],[\"\"]],[[\"{end}\"],[\"\"],[\"\"],[\"\"],[\"\"],[\"\"],[\"\"]]]}"
+    }
+}
